@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "just for pratice",
+  "homepage": "https://github.com/efp-bsc-com-01-24-dotcom/backend#readme",
+  "bugs": {
+    "url": "https://github.com/efp-bsc-com-01-24-dotcom/backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efp-bsc-com-01-24-dotcom/backend.git"
+  },
+  "license": "ISC",
+  "author": "ephraim",
+  "type": "commonjs",
+  "main": "index.js",
+  "tyep": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
